@@ -39,5 +39,5 @@ sampctl package install AliLogic/random-messages
 Include in your code and begin using the library:
 
 ```pawn
-#include <randommessages>
+#include <Random-Messages>
 ```
