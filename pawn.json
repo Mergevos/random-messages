@@ -1,0 +1,11 @@
+{
+	"user": "AliLogic",
+	"repo": "random-messages",
+	"contributors": [
+		"AliLogic",
+    "Emmet_"
+	],
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
