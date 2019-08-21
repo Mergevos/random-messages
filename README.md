@@ -26,9 +26,7 @@ And finally, maintaining your version number`:
 Happy Pawning!
 -->
 
-A reupload of Random Messages dependency by Emmet with support for SAMPCTL
-
-#### Version: 0.3.0
+A reupload of Random Messages dependency by Emmet with support for SAMPCTL/
 
 ## Installation
 
