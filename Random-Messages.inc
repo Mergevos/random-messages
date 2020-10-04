@@ -1,5 +1,10 @@
 // RandomMessages.inc by Emmet
 
+#if defined _INC_RANDOM_MESSAGES
+	#endinput
+#endif
+#define _INC_RANDOM_MESSAGES
+
 /*
 	native AddRandomMessage(const message[], color = -1);
 	native SetMessageInterval(time);
