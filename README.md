@@ -1,6 +1,6 @@
-# random-messages
+# samp-multilanguage
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-random--messages-2f2f2f.svg?style=for-the-badge)](https://github.com/AliLogic/random-messages)
+[![sampctl](https://img.shields.io/badge/sampctl-samp--multilanguage-2f2f2f.svg?style=for-the-badge)](https://github.com/Mergevos/samp-multilanguage)
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
@@ -26,18 +26,38 @@ And finally, maintaining your version number`:
 Happy Pawning!
 -->
 
-A reupload of Random Messages dependency by Emmet with support for SAMPCTL/
-
 ## Installation
 
 Simply install to your project:
 
 ```bash
-sampctl package install AliLogic/random-messages
+sampctl package install Mergevos/samp-multilanguage
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <Random-Messages>
+#include <samp-multilanguage>
+```
+
+## Usage
+
+<!--
+Write your code documentation or examples here. If your library is documented in
+the source code, direct users there. If not, list your API and describe it well
+in this section. If your library is passive and has no API, simply omit this
+section.
+-->
+
+## Testing
+
+<!--
+Depending on whether your package is tested via in-game "demo tests" or
+y_testing unit-tests, you should indicate to readers what to expect below here.
+-->
+
+To test, simply run the package:
+
+```bash
+sampctl package run
 ```

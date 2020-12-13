@@ -1,11 +1,10 @@
 {
-	"user": "AliLogic",
-	"repo": "random-messages",
-	"contributors": [
-		"AliLogic",
-    "Emmet_"
-	],
+	"user": "Mergevos",
+	"repo": "samp-multilanguage",
+	"entry": "test.pwn",
+	"output": "test.amx",
 	"dependencies": [
-		"sampctl/samp-stdlib"
+		"sampctl/samp-stdlib",
+		"IllidanS4/PawnPlus:v1.3.2"
 	]
 }
