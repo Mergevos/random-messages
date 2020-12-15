@@ -2,6 +2,8 @@
 
 [![Mergevos](https://img.shields.io/badge/Mergevos-samp--random--mesages-2f2f2f.svg?style=for-the-badge)](https://github.com/Mergevos/samp-random-messages)
 
+It is originally created by Emmet_, but I've forked this and modified.
+
 ## Installation
 
 Simply install to your project:
