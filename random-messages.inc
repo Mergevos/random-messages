@@ -86,6 +86,17 @@ stock RandomMessage_Add(const message[]) {
 }
 
 /**
+ * <summary> Removes specific random message. </summary>
+ * <param name="messageid">Message to delete. </param>
+ */
+
+stock RandomMessage_Delete(messageid) {
+    new const ret = pool_remove(Pool:pool, messageid);
+    if(!ret) {
+        printf("random-messages: Messageid %d doesn't exist.", messageid)
+    }
+}
+/**
  * <summary> Sends specific random message to a client </summary>
  * <param name="messageid">Message ID to send. </param>
  * <param name="message"> Variable to store message output.</param>
